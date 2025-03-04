@@ -6,6 +6,7 @@ class Paper {
   mouseTouchY = 0;
   mouseX = 0;
   mouseY = 0;
+  //mouseY=1;
   prevMouseX = 0;
   prevMouseY = 0;
   velX = 0;
